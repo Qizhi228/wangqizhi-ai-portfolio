@@ -1,0 +1,3 @@
+# 默认实现只使用 Python 标准库；接入 Web API 时可增加 FastAPI。
+fastapi>=0.110
+uvicorn>=0.29
